@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2563
+
+The BufMenuToo Plugin makes the Buffer Menu remain a constant size for
+use as tearoff menu. Now it can permanently stay open to show your 
+buffers and still keeps a minimum size.
+
+version: 0.0.1
+
+INCOMPATIBLE with MiniBufExplorer
